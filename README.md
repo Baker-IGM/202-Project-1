@@ -1,24 +1,43 @@
 # Project PROJECT_NAME
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
 ### Student Info
 
 -   Name: YOUR NAME
 -   Section: ##
 
-### Description
+## Game Design
 
-_A brief explanation of your project. Make sure to include details about how to play and win your game_
+-   Camera Orientation: _How are the art assets viewed from? (ie. topdown or side)_
+-   Camera Movement: _How does the camera move in your game? (if at all)_
+-   Player Health: _How are you handling player health? (healthbar, lives, ?)_
+-   End Condition: _How does a game/round/level end?_
+-   Scoring: _How does the player earn points in your game?_
 
-### User Responsibilities
+### Game Description
 
--   _What the user will need to do in the program_
--   _Include user interaction: keys to press, mouse buttons to click/drag, etc._
+_A brief explanation of your game. Inculde what is the objective for the player. Think about what would go on the back of a game box._
 
-### You Additions
+### Controls
+
+-   Movement
+    -   Up: 
+    -   Down: 
+    -   Left: 
+    -   Right: 
+-   Fire: 
+
+## You Additions
 
 _List out what you added to your game to make it different for you_
 
-### Known Issues
+## Sources
+
+-   _List all project sources here –models, textures, sound clips, assets, etc._
+-   _If an asset is from the Unity store, include a link to the page and the author’s name_
+
+## Known Issues
 
 _List any errors, lack of error checking, or specific information that I need to know to run your program_
 
@@ -26,7 +45,3 @@ _List any errors, lack of error checking, or specific information that I need to
 
 _If you did not complete a project requirement, notate that here_
 
-### Sources
-
--   _List all project sources here –models, textures, sound clips, assets, etc._
--   _If an asset is from the Unity store, include a link to the page and the author’s name_
