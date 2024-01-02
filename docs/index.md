@@ -1,8 +1,6 @@
-# Project 1
+## Project 1 Builds
 
-## Builds
-
--   [Checkpoint 01](exercise_1/)
--   [Checkpoint 02](exercise_2/)
--   [Checkpoint 03](exercise_3/)
+-   [Checkpoint 01](checkpoint_1/)
+-   [Checkpoint 02](checkpoint_2/)
+-   [Checkpoint 03](checkpoint_3/)
 -   [Final](final/)
